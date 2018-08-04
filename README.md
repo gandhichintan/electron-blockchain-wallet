@@ -1,6 +1,5 @@
 # EBWallet
 
-![Screen Shot](https://github.com/gandhichintan/electron-blockchain-wallet/blob/master/assets/Screen_Shot.png)
 
 
 It is **not** production code and should be used for educational puproses only.
