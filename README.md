@@ -1,6 +1,6 @@
-# JSWallet
+# EBWallet
 
-![Screen Shot](https://github.com/gandhichintan/jswallet/blob/master/assets/Screen_Shot.png)
+![Screen Shot](https://github.com/gandhichintan/electron-blockchain-wallet/blob/master/assets/Screen_Shot.png)
 
 
 It is **not** production code and should be used for educational puproses only.
@@ -8,7 +8,7 @@ It is **not** production code and should be used for educational puproses only.
 ## Installation
 
 ```
-git clone https://github.com/gandhichintan/jswallet.git
+git clone https://github.com/gandhichintan/electron-blockchain-wallet.git
 cd jswallet
 npm install
 npm start
@@ -20,7 +20,7 @@ Key derivation is the beating heart of a Bitcoin Wallet and most security concer
 
 My code is mainly intended as an illustration of the following pattern:
 
-![Key Derivation](https://github.com/gandhichintan/jswallet/blob/master/assets/Key%20Chain.png)
+![Key Derivation](https://github.com/gandhichintan/electron-blockchain-wallet/blob/master/assets/Key%20Chain.png)
 
 ## Building
 
