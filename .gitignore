@@ -1,0 +1,12 @@
+node_modules
+out
+.eslintcache
+
+# WebStorm Project
+.idea
+
+# NeDB local file
+db
+
+# MacOS Folder DB
+.DS_Store
